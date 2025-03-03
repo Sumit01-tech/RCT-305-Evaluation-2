@@ -1,1 +1,1 @@
-# RCT-305-Evaluation-2
+#React single-page application (SPA) based on Detailed Information 
